@@ -1,0 +1,3 @@
+<instant group="attack" spellid="70" name="Problem5" words="frigo" level="0" mana="0" premium="0" selftarget="1" needlearn="0" script="attack/problem5.lua">
+<vocation name="Druid"/>
+</instant>
